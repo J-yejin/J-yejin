@@ -8,8 +8,8 @@
 
 ### 💻 기술 스택
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ...
 
 ---
@@ -19,7 +19,6 @@
 #### 🔍 창업기업 고용성과 분석
 - **설명**: 창업진흥원 위탁과제로, 약 5만건 데이터를 분석하여 지표 설계 및 보고서 작성
 - **기술**: Python, SQL, NLP
-- [바로가기](https://github.com/yourproject)
 
 #### 📊 신한금융그룹 빅데이터 해커톤 대회
 - **설명**: 카드 소비 데이터 기반 맞춤형 소비 빙고 앱 제안, 팀 리더 및 기획 담당
