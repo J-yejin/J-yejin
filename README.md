@@ -135,7 +135,7 @@
 
 ### 📫 연락처 / 기타 링크
 - 📝 [블로그]
-- 📝 [포트폴리오 보기 (Notion)](https://www.notion.so/e86b54abd79e4e72b67de62acf84b000?source=copy_link)
+- 📝 [포트폴리오 보기 (Notion)]([https://www.notion.so/e86b54abd79e4e72b67de62acf84b000?source=copy_link](https://app.notion.com/p/AI-Data-Analysist-Portfolio-bbf533b0e12a82db98c8810b84389890?source=copy_link))
 
 <a href="mailto:yejimy0524@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=yejimy0524@gmail.com"/>
