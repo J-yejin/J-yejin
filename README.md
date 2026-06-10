@@ -87,7 +87,9 @@ AI Agent 설계부터 OCR·RAG 기반 LLM 서비스 구현, 데이터 분석 및
   - 자체 테스트 문서 10건 기준 OCR 분류 및 정보 추출 정확도 100%
   - 문서 처리 약 30초, 심사 및 리포트 생성 약 40초
   - SSAFY 특화 프로젝트 우수상 3위 수상
-![Github](https://github.com/A406-HLY)
+ 
+
+[![Github](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/A406-HLY)
 
 <br/>
 
@@ -106,7 +108,8 @@ AI Agent 설계부터 OCR·RAG 기반 LLM 서비스 구현, 데이터 분석 및
 - **Result**
   - 핵심 intent 처리 정확도 96.5%
   - YOLO11m-seg Mask mAP50 0.667, Mask mAP50-95 0.510
-![Github](https://github.com/JoKong98/ARMI-project)
+
+[![Github](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/JoKong98/ARMI-project)
 
 <br/>
 
@@ -124,7 +127,8 @@ AI Agent 설계부터 OCR·RAG 기반 LLM 서비스 구현, 데이터 분석 및
 - **Result**
   - mAP50 0.988, mAP50-95 0.925, Precision 0.982
   - SSAFY 공통 프로젝트 우수상 1위 수상
-![Github](https://github.com/Hang-ga-rae)
+
+[![Github](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/Hang-ga-rae/aiot-rehab-assistant)
 
 <br/>
 
